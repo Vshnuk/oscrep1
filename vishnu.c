@@ -2,5 +2,5 @@
 int main()
 {
 	printf("vishnuk");
-	return 0;
+	return 3;
 }
